@@ -34,31 +34,7 @@ namespace NomeCompleto
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("clique em uma tecla para finalizar o programa");
             Console.ReadKey();
-            Console.Clear();
-
-
-
-
-
-
-
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
+            Console.Clear(); 
         }
     }
 }
