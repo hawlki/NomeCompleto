@@ -29,7 +29,7 @@ namespace NomeCompleto
             Console.Write("Nome completo:");
             Console.WriteLine($"{nome} {sobrenome}");
             Console.Write("Nome de catalogo:");
-            Console.WriteLine($"{sobrenome.ToUpper()} {nome}");
+            Console.WriteLine($"{sobrenome.ToUpper()}, {nome}");
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("clique em uma tecla para finalizar o programa");
