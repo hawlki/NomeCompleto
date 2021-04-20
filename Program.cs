@@ -10,9 +10,7 @@ namespace NomeCompleto
             Console.Beep();
 
             Console.WriteLine("-----------------------------");
-            Console.WriteLine("Etec Adolpho Berezin");
-            Console.WriteLine("Feito por Israel Camilo lopes");
-            Console.WriteLine("1I3");
+            Console.WriteLine("        Nome completo        ");
             Console.WriteLine("-----------------------------");
 
             Console.ForegroundColor = ConsoleColor.Cyan;
